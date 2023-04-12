@@ -1,0 +1,25 @@
+
+.alignH{
+    background-color: #00abf0;
+    margin-top: 20px;
+
+}
+.columna{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #4d5061;
+}
+
+a:hover{
+    transform: scale(2);
+    transform: rotate(360deg);
+    transition: all 1200ms ease-in-out;
+    color: black;
+    background-color: transparent;
+}
+
+.alignV{
+    background: #c74646;
+    margin-top: 20px;
+    height: 15rem;
+}
